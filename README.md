@@ -1,4 +1,4 @@
-# Using Python to connect a LEGO Spike to a Bluetooth Device
+# Using Python to connect a LEGO® Spike to a Bluetooth Device
 
 > **Warning**  
 > This repo is a work in progress!
