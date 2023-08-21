@@ -5,20 +5,20 @@
 
 Connecting a LEGO Spike to a bluetooth device.
 
-LEGO Spike acting as a remote control:
-https://gist.github.com/antonvh/1f1d9c563268b4a8e9e1d7297e62ad53
+> LEGO Spike acting as a remote control:  
+> https://gist.github.com/antonvh/1f1d9c563268b4a8e9e1d7297e62ad53
 
-LEGO Spike acting as a receiver:
-https://gist.github.com/antonvh/aca9e9a32aaebe337af3fb1a6f2712aa
+> LEGO Spike acting as a receiver:  
+> https://gist.github.com/antonvh/aca9e9a32aaebe337af3fb1a6f2712aa
 
-Micropython Bluetooth examples:
-https://github.com/micropython/micropython/blob/master/examples/bluetooth/ble_simple_central.py
+> Micropython Bluetooth examples:  
+> https://github.com/micropython/micropython/blob/master/examples/bluetooth/ble_simple_central.py
 
-Microphtyon bluetooth documentation:
-https://docs.micropython.org/en/kookaberry/library/ubluetooth.html
+> Microphtyon bluetooth documentation:  
+> https://docs.micropython.org/en/kookaberry/library/ubluetooth.html
 
-Posting my question to the Micropython support:
-https://github.com/orgs/micropython/discussions/11658
+> Posting my question to the Micropython support:  
+> https://github.com/orgs/micropython/discussions/11658
 
 ***
 
